@@ -1,13 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import 'bootstrap/dist/css/bootstrap.min.css'
-import 'bootstrap/dist/js/bootstrap.bundle.min.js'
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-import { render } from 'react-dom';
-import Highcharts from 'highcharts';
-import HighchartsReact from 'highcharts-react-official';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
