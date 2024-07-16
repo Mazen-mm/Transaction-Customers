@@ -8,6 +8,8 @@
     "@testing-library/user-event": "^13.5.0",
     "bootstrap": "^5.3.3",
     "chart.js": "^4.4.3",
+    "highcharts": "^11.4.6",
+    "highcharts-react-official": "^3.2.1",
     "json-server": "^1.0.0-beta.1",
     "lodash": "^4.17.21",
     "react": "^18.3.1",

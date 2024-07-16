@@ -5,9 +5,7 @@ import 'bootstrap/dist/js/bootstrap.bundle.min.js'
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-import { render } from 'react-dom';
-import Highcharts from 'highcharts';
-import HighchartsReact from 'highcharts-react-official';
+
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
